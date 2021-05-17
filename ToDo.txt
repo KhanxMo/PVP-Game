@@ -1,0 +1,24 @@
+ToDO List
+
+Main Things:
+- Game-mode setup
+- Bot AI
+
+Other:
+- Camera physics
+- Finish Menus (settings menu, pause menu)
+- Spawning
+- Map Animations
+
+Graphics:
+- Stabbing (horizontal attack?)
+- Archer(stab)
+- Jumping/Landing implementation
+- Maps(Flags/Base)
+- Basic water
+- Crouching
++ Add ShieldMovement to walking sprites
+
+If Time Permits:
+- Cannon/Musket
+- Catapult
